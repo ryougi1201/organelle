@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './party_parrot.gif';
 import './App.css';
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
           className="App-link"
           href="https://drive.google.com/drive/folders/1f90RqdXNojKlN-CAytjrkiAQ4xdT5yzP?usp=sharing">
           Google Drive here </a>
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo} alt="logo" />
       </header>
     </div>
   );
